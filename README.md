@@ -6,7 +6,7 @@
 [codeclimate-url]: https://codeclimate.com/github/errbit/errbit
 [coveralls-img-url]: https://coveralls.io/repos/github/errbit/errbit/badge.png?branch=master
 [coveralls-url]: https://coveralls.io/github/errbit/errbit?branch=master
-[heroku-deploy-url]:https://heroku.com/deploy?template=https://github.com/errbit/errbit/tree/master
+[heroku-deploy-url]:https://heroku.com/deploy?template=https://github.com/Rentium-nl/errbit/tree/main
 
 ### The open source, self-hosted error catcher
 
